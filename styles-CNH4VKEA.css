@@ -1,0 +1,1 @@
+body{height:100vh;padding:10px;align-items:center;justify-content:center;font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;background-color:beige}header{margin:10px;border-radius:3px;box-shadow:3px 3px 10px}nav a{text-decoration:none;padding-left:10px}main{display:flex;flex:column;justify-content:center;align-items:center;height:20vh}
